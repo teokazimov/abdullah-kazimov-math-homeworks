@@ -3,29 +3,29 @@
         {
             "path": "/texts/course/config.yml",
             "status": {
-                "total": 41,
-                "correct": 0
+                "total": 50,
+                "correct": 15
             }
         },
         {
             "path": "/texts/course/1. Linear Algebra/config.yml",
             "status": {
-                "total": 41,
-                "correct": 0
+                "total": 50,
+                "correct": 15
             }
         },
         {
             "path": "/texts/course/1. Linear Algebra/1. Vectors/config.yml",
             "status": {
-                "total": 41,
-                "correct": 0
+                "total": 33,
+                "correct": 8
             }
         },
         {
             "path": "/texts/course/1. Linear Algebra/2. Matrices/config.yml",
             "status": {
-                "total": 1,
-                "correct": 0
+                "total": 17,
+                "correct": 7
             }
         }
     ],
@@ -34,8 +34,11 @@
             "path": "/texts/course/1. Linear Algebra/1. Vectors/1. Vectors as Arrows/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    0,
+                    3
+                ]
             }
         },
         {
@@ -134,48 +137,81 @@
             "path": "/texts/course/1. Linear Algebra/1. Vectors/2. Sum of Vectors Quiz/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    3,
+                    4,
+                    6
+                ]
             }
         },
         {
             "path": "/texts/course/1. Linear Algebra/1. Vectors/3. Sum of Vectors Quiz 2/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    3,
+                    2,
+                    5,
+                    7,
+                    0
+                ]
             }
         },
         {
             "path": "/texts/course/1. Linear Algebra/1. Vectors/4. Scaling Quiz/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    4,
+                    2,
+                    1,
+                    3,
+                    6
+                ]
             }
         },
         {
             "path": "/texts/course/1. Linear Algebra/1. Vectors/6. Scalar Product Quiz/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    2,
+                    4,
+                    6,
+                    0
+                ]
             }
         },
         {
             "path": "/texts/course/1. Linear Algebra/1. Vectors/7. Geometric Meaning Quiz/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    6,
+                    5,
+                    3,
+                    2
+                ]
             }
         },
         {
             "path": "/texts/course/1. Linear Algebra/1. Vectors/8. Orthonormalisation Quiz/config.yml",
             "status": {
-                "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "total": 2,
+                "correct": 2,
+                "selectedVariantIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ]
             }
         },
         {
@@ -188,6 +224,102 @@
         },
         {
             "path": "/texts/course/1. Linear Algebra/1. Vectors/10. Vectors Practice/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/1. Linear Algebra/2. Matrices/1. Matrices/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 1,
+                "selectedVariantIds": [
+                    3,
+                    5,
+                    7,
+                    8,
+                    1
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Linear Algebra/2. Matrices/2. Matrix Product/config.yml",
+            "status": {
+                "total": 2,
+                "correct": 2,
+                "selectedVariantIds": [
+                    0,
+                    1,
+                    2,
+                    3
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Linear Algebra/2. Matrices/3. Matrix Product/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 1,
+                "selectedVariantIds": [
+                    5,
+                    4,
+                    7,
+                    6,
+                    2,
+                    11,
+                    10,
+                    1
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Linear Algebra/2. Matrices/4. Functions as Transforms/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 1,
+                "selectedVariantIds": [
+                    1,
+                    5,
+                    6,
+                    8
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Linear Algebra/2. Matrices/5. Linear Transforms/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 1,
+                "selectedVariantIds": [
+                    11,
+                    10,
+                    8,
+                    6,
+                    4
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Linear Algebra/2. Matrices/6. Invertible Matrices/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 1,
+                "selectedVariantIds": [
+                    0,
+                    4,
+                    6,
+                    8,
+                    9,
+                    10,
+                    12,
+                    13
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Linear Algebra/2. Matrices/7. Matrices Practice/config.yml",
             "status": {
                 "total": 1,
                 "correct": 0,
